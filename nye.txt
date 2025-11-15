@@ -18,34 +18,25 @@ Stk. 2. Institutionens formål er endvidere at drive privat fritidsklub for elev
 
 Stk. 3. Skolen drives på et pædagogisk grundlag inden for den reformpædagogiske tradition, der er udviklet i lilleskolebevægelsen i Danmark. Skolens pædagogik bygger på et humanistisk menneskesyn, et kritisk samfundssyn og et skolesyn, hvor barnet respekteres som et ligeværdigt og helt menneske, hvis evner og kvaliteter skolen skal medvirke til at udvikle på baggrund af en grundlæggende respekt for andre mennesker og med vægt på ansvarlighed og evne til at tage aktivt del i demokratiske processer.
 
+{ Jeg tror ikke vi må indfører flere stk under 3, men disse kunne måske passes ind under 2 hvor vi godt må
+Stk. 5. Skolens egendækning består af skolepenge (forældrebetaling), indskud, arbejdsydelser og frivillige bidrag.
+
+Stk. 6. Forældrene hæfter for de af skolen fastsatte ydelser i form af skolepenge (forældrebetaling), indskud og vedtagne arbejdsydelser.
+
+Stk. 7. Ved det første barns indmeldelse i skolen udleveres skolens vedtægter med tilhørende bilag samt betalingsvedtægten til forældrene. Forældrene kvitterer skriftligt for modtagelsen af dette materiale ved at underskrive en erklæring, hvori det bekræftes, at forældrene forud for indmeldelsen er gjort bekendt med skolens vedtægter og betalingsbestemmelser, herunder bestemmelserne om indskud og dettes tilbagebetaling.
+}
+
 Skolens organisering og drift
 § 3. Skolen er en uafhængig og selvejende undervisningsinstitution.
 
-Stk. 2. Skolens drift gennemføres ved offentlige tilskud og ved egendækning, herunder skolepenge for eleverne og eventuelt ved bidrag fra andre efter lov om friskoler og private grundskoler m.v. Skolens midler må alene komme skolens skole- og undervisningsvirksomhed til gode, og et eventuelt overskud ved skolens drift tilfalder skolen.
+Stk. 2. Skolens drift gennemføres ved offentlige tilskud og ved egendækning, herunder skolepenge for eleverne, forældrebetaling for skolefritidsordning og eventuelt ved bidrag fra andre efter lov om friskoler og private grundskoler m.v. Skolens midler må alene komme skolens skole- og undervisningsvirksomhed til gode, og et eventuelt overskud ved skolens drift tilfalder skolen.
 
-Stk. 3. Skolens egendækning består af skolepenge (forældrebetaling), indskud, arbejdsydelser og frivillige bidrag.
+Stk. 3. Bidrag til skolen giver ikke bidragyderen ret til nogen del af skolens formue eller til udbytte af nogen art.
 
-Stk. 4. Forældrene hæfter for de af skolen fastsatte ydelser i form af skolepenge (forældrebetaling), indskud og vedtagne arbejdsydelser.
+Stk. 4. Skolens likvide midler skal anbringes i overensstemmelse med bestemmelserne herom i lov om friskoler og private grundskoler m.v. og må ikke anbringes på konti m.v., som andre end skolen har rådighed over.
 
-Stk. 5. Ved det første barns indmeldelse i skolen udleveres skolens vedtægter med tilhørende bilag samt betalingsvedtægten til forældrene. Forældrene kvitterer skriftligt for modtagelsen af dette materiale ved at underskrive en erklæring, hvori det bekræftes, at forældrene forud for indmeldelsen er gjort bekendt med skolens vedtægter og betalingsbestemmelser, herunder bestemmelserne om indskud og dettes tilbagebetaling.
-
-Stk. 6. Bidrag til skolen giver ikke bidragyderen ret til nogen del af skolens formue eller til udbytte af nogen art.
-
-Stk. 7. Skolens likvide midler skal anbringes i overensstemmelse med bestemmelserne herom i lov om friskoler og private grundskoler m.v. og må ikke anbringes på konti m.v., som andre end skolen har rådighed over.
-
-Bestyrelsen
 Bestyrelsens opgaver m.v.
 § 4. Bestyrelsen
-
-varetager den overordnede ledelse af skolen og er ansvarlig over for børne- og undervisningsministeren for, at skolens økonomi og drift er i overensstemmelse med lov om friskoler og private grundskoler m.v., denne vedtægt og øvrige retsregler,
-
-har ansvaret for skolens økonomi og drift, herunder for, at der hvert år i overensstemmelse med gældende regler udarbejdes en retvisende årsrapport, som underkastes betryggende revision efter de gældende regler af en godkendt revisor valgt af bestyrelsen. Årsrapportens udarbejdelse, revision og afslutning skal være tilendebragt senest 3 måneder efter regnskabsårets afslutning, og alle bestyrelsesmedlemmer skal underskrive årsrapporten og afgive erklæring på tro og love om, at de opfylder betingelserne for medlemskab,
-
-har ansvaret for, at skolens vedtægt til enhver tid er i overensstemmelse med lovgivningen, og skal i tilfælde af uoverensstemmelse mellem lovgivningen og vedtægtens ordlyd følge lovgivningen og uden ugrundet ophold bringe vedtægten i overensstemmelse hermed,
-
-ansætter og afskediger skolens leder og ansætter og afskediger skolens øvrige personale, idet bestyrelsen dog kan overdrage skolens leder sin ret til at ansætte og afskedige skolens øvrige personale,
-
-træffer med generalforsamlingens godkendelse beslutning om skolepengenes størrelse,
 
 træffer med generalforsamlingens godkendelse beslutning om køb og salg af fast ejendom og træffer med generalforsamlingens godkendelse beslutning om pantsætning af fast ejendom samt om optagelse af lån,
 

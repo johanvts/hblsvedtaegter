@@ -27,6 +27,8 @@ Stk. 7. Ved det første barns indmeldelse i skolen udleveres skolens vedtægter 
 }
 
 Skolens organisering og drift
+
+
 § 3. Skolen er en uafhængig og selvejende undervisningsinstitution.
 
 Stk. 2. Skolens drift gennemføres ved offentlige tilskud og ved egendækning, herunder skolepenge for eleverne, forældrebetaling for skolefritidsordning og eventuelt ved bidrag fra andre efter lov om friskoler og private grundskoler m.v. Skolens midler må alene komme skolens skole- og undervisningsvirksomhed til gode, og et eventuelt overskud ved skolens drift tilfalder skolen.
@@ -35,18 +37,31 @@ Stk. 3. Bidrag til skolen giver ikke bidragyderen ret til nogen del af skolens f
 
 Stk. 4. Skolens likvide midler skal anbringes i overensstemmelse med bestemmelserne herom i lov om friskoler og private grundskoler m.v. og må ikke anbringes på konti m.v., som andre end skolen har rådighed over.
 
+
+
 Bestyrelsens opgaver m.v.
+
 § 4. Bestyrelsen
 
-træffer med generalforsamlingens godkendelse beslutning om køb og salg af fast ejendom og træffer med generalforsamlingens godkendelse beslutning om pantsætning af fast ejendom samt om optagelse af lån,
+1) varetager den overordnede ledelse af skolen,
 
-træffer med generalforsamlingens godkendelse beslutning om ændring af skolens vedtægt,
+2) har ansvaret for skolens økonomi og drift, herunder for, at der hvert år i overensstemmelse med gældende regler udarbejdes en retvisende årsrapport, som underkastes betryggende revision efter de gældende regler af en godkendt revisor valgt af bestyrelsen,
 
-træffer beslutning om skolens nedlæggelse i de tilfælde, hvor det efter lov om friskoler og private grundskoler m.v. påhviler bestyrelsen at drage omsorg for skolens likvidation, idet generalforsamlingen er tillagt kompetencen til at træffe beslutning om skolens nedlæggelse uden for de tilfælde, hvor bestyrelsen efter loven skal drage omsorg for likvidation af skolen,
+3) har ansvaret for, at skolens vedtægt til enhver tid er i overensstemmelse med lovgivningen, og skal i tilfælde af uoverensstemmelse mellem lovgivningen og vedtægtens ordlyd følge lovgivningen og uden ugrundet ophold bringe vedtægten i overensstemmelse hermed,
 
-træffer beslutning om ethvert spørgsmål i øvrigt om skolen, som bestyrelsen selv ønsker at træffe beslutning om, og
+4) ansætter skolens leder med generalforsamlingens godkendelse og afskediger skolens leder og ansætter og afskediger skolens øvrige personale, idet bestyrelsen dog kan overdrage skolens leder sin ret til at ansætte og afskedige skolens øvrige personale,
 
-fører protokol over sine beslutninger og indfører konstateret inhabilitet, jf. § 5, i protokollen og fastsætter en forretningsorden for sin virksomhed. Forretningsordenen optages som bilag til vedtægten.
+5) træffer med generalforsamlingens godkendelse beslutning om skolepengenes størrelse,
+
+6) træffer med generalforsamlingens godkendelse beslutning om køb og salg af fast ejendom og træffer med generalforsamlingens godkendelse beslutning om pantsætning af fast ejendom,
+
+7) træffer med generalforsamlingens godkendelse beslutning om ændring af skolens vedtægt,
+
+8) træffer beslutning om skolens nedlæggelse i de tilfælde, hvor det efter loven påhviler bestyrelsen at drage omsorg for skolens likvidation, idet generalforsamlingen kan tillægges kompetencen til at træffe beslutning om skolens nedlæggelse uden for de tilfælde, hvor bestyrelsen efter loven skal drage omsorg for likvidation af skolen.
+
+9) træffer beslutning om ethvert spørgsmål i øvrigt om skolen, som bestyrelsen selv ønsker at træffe beslutning om, og
+
+10) fører protokol over sine beslutninger og indfører konstateret inhabilitet, jf. § 5, i protokollen og fastsætter en forretningsorden for sin virksomhed.
 
 § 5. Bestyrelsens medlemmer er omfattet af bestemmelserne i forvaltningslovens kapitel 2 og 8 om inhabilitet og tavshedspligt m.v.
 

@@ -5,4 +5,4 @@ Nye.txt er de opdatered vedtægter.
 Gamle.txt er de nuværende vedtægter.
 
 Status: Nye.txt er genereret ved at fodre GPT-5 med Gamle.txt og bilag 2.
-Kontrolleret og redigeret op til §5 af mindste 1 menneske.
+Kontrolleret og redigeret op til §5 af mindst 1 menneske.

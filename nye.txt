@@ -86,10 +86,7 @@ Stk. 2. Medarbejdere på skolen kan kun deltage i valg af bestyrelsen, hvis de s
 
 Stk. 2. Bestyrelsen er beslutningsdygtig, når mindst halvdelen af bestyrelsesmedlemmerne er til stede.
 
-Stk. 3. Bestyrelsesmedlemmerne træffer beslutning ved almindelig stemmeflerhed blandt de tilstedeværende, idet formandens eller i dennes fravær næstformandens stemme er udslagsgivende i tilfælde af stemmelighed{, jf. dog stk. 4.
-
-Stk. 4. [Angiv beslutninger, som kræver kvalificeret flertal, og angiv, hvor meget mere end almindelig stemmelighed der kræves, f.eks. ved at angive en brøk]. }
-
+Stk. 3. Bestyrelsesmedlemmerne træffer beslutning ved almindelig stemmeflerhed blandt de tilstedeværende, idet formandens eller i dennes fravær næstformandens stemme er udslagsgivende i tilfælde af stemmelighed.
 
 § 12. Bestyrelsens medlemmer skal være myndige.
 
@@ -111,17 +108,13 @@ Stk. 4. Lejer skolen ejendomme m.m. af andre, kan følgende personer ikke være 
 
 6) Ansatte i ledende stillinger i de i nr. 2 angivne fonde, selskaber, foreninger eller andre virksomheder.
 
-
 § 13. Et bestyrelsesmedlem skal øjeblikkelig udtræde af bestyrelsen, hvis vedkommende ikke opfylder de betingelser for medlemskab af bestyrelsen, som følger af lov om friskoler og private grundskoler m.v. eller vedtægten, jf. dog stk. 2.
 
 Stk. 2. Uanset bestemmelsen i stk. 1 skal bestyrelsesmedlemmer valgt af og blandt forældrene, jf. § 9, stk. 2 og 3, ikke udtræde af bestyrelsen, hvis deres børn udskrives i funktionsperioden mod forældrenes ønske.
 
-
-§ 14. Et bestyrelsesmedlem kan ikke afsættes i funktionsperioden. {Et bestyrelsesmedlem valgt af forældrekredsen eller generalforsamlingen {eller skolekredsen} kan dog afsættes, hvis dette med almindelig stemmeflerhed besluttes på et møde i det vælgende organ, hvis dagsorden indeholder et punkt om afstemning om afsættelse af det pågældende bestyrelsesmedlem. }
-
+§ 14. Et bestyrelsesmedlem kan ikke afsættes i funktionsperioden. Et bestyrelsesmedlem valgt af forældrekredsen eller generalforsamlingen {eller skolekredsen} kan dog afsættes, hvis dette med almindelig stemmeflerhed besluttes på et møde i det vælgende organ, hvis dagsorden indeholder et punkt om afstemning om afsættelse af det pågældende bestyrelsesmedlem.
 
 § 15. Hvis et bestyrelsesmedlem udtræder af bestyrelsen i funktionsperioden, indtræder suppleanten for resten af funktionsperioden. Kan en suppleant ikke indtræde, skal der hurtigst muligt udpeges eller vælges et nyt medlem for resten af perioden.
-
 
 Skolens leder og øvrige personale
 

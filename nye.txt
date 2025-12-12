@@ -72,39 +72,21 @@ Stk. 3. En mødedeltager har tavshedspligt i sager, hvori væsentlige hensyn til
 Bestyrelsens sammensætning, funktionsmåde, funktionsperiode m.v.
 
 
-§ 9. Bestyrelsen består af [konkret antal, som skal være mindst 5] medlemmer og bør så vidt muligt have en afbalanceret sammensætning af kvinder og mænd. {[Angiv en overordnet beskrivelse af bestyrelsens sammensætning. ]}
+§ 9. Bestyrelsen består af 7 medlemmer og bør så vidt muligt have en afbalanceret sammensætning af kvinder og mænd.
 
-Stk. 2. [Konkret antal, som skal være mindst 2 og højst det antal, som er angivet i stk. 1] af bestyrelsens medlemmer vælges af og blandt forældrene til elever på skolen (forældrekredsen). Medlemmerne vælges for en periode på [angiv enten 2, 3 eller 4] år ad gangen.
+Stk. 2. 7 af bestyrelsens medlemmer vælges af og blandt forældrene til elever på skolen (forældrekredsen). Medlemmerne vælges for en periode på 2 år ad gangen.
 
-Stk. 3. [Konkret antal, som skal være mindst 1] suppleant{er} til de i stk. 2 nævnte bestyrelsesmedlemmer vælges af og blandt forældrene til elever på skolen (forældrekredsen).
+Stk. 3. 2 suppleanter til de i stk. 2 nævnte bestyrelsesmedlemmer vælges af og blandt forældrene til elever på skolen (forældrekredsen).
 
-[Ét af nedenstående stk. om medarbejdervalgte bestyrelsesmedlemmer kan vælges:
+§ 10. En medarbejder på skolen kan ikke være medlem af bestyrelsen.
 
+Stk. 2. Medarbejdere på skolen kan kun deltage i valg af bestyrelsen, hvis de samtidig er forældre til elever på skolen.
 
- 	
-{Stk. 4. [Konkret antal som skal være 1, hvis bestyrelsen består af 5 medlemmer] af bestyrelsens medlemmer vælges af og blandt skolens medarbejdere, skolelederen fraregnet. Medlemmet vælges for en periode på [angiv enten 2, 3 eller 4] år ad gangen. }
-{Stk. 4. [Konkret antal som skal være enten 1 eller 2, hvis bestyrelsen består af mere end 5 medlemmer] af bestyrelsens medlemmer vælges af og blandt skolens medarbejdere, skolelederen fraregnet. [Angiv hvor længe medlemmets/medlemmernes funktionsperiode varer, idet den skal være enten 2, 3 eller 4] år ad gangen. }]
-{Stk. x. [Konkret antal] medlem{mer} [angiv om vedkommende udpeges eller vælges] af [angiv det udpegende eller vælgende organ]. [Angiv hvor længe medlemmets/medlemmernes funktionsperiode varer, idet den skal være enten 2, 3 eller 4] år ad gangen. }
-
-{Stk. x. [Konkret antal] medlem{mer} [angiv om vedkommende udpeges eller vælges] af [angiv det udpegende eller vælgende organ]. [Angiv hvor længe medlemmets/medlemmernes funktionsperiode varer, idet den skal være enten 2, 3 eller 4] år ad gangen. }
-
-{Stk. x. [Konkret antal] medlem{mer} [angiv om vedkommende udpeges eller vælges] af [angiv det udpegende eller vælgende organ]. [Angiv hvor længe medlemmets/medlemmernes funktionsperiode varer, idet den skal være enten 2, 3 eller 4] år ad gangen. }
-
-{Stk. x. [Konkret antal] suppleant{er} til de i stk. x nævnte bestyrelsesmedlemmer vælges af [angiv det vælgende organ]. }
-
-
-§ 10. En medarbejder på skolen kan ikke være medlem af bestyrelsen{, medmindre den pågældende er valgt i medfør af § 9, stk. 4}.
-
-Stk. 2. Medarbejdere på skolen kan kun deltage i valg af bestyrelsen, hvis de samtidig er forældre til elever på skolen{, medmindre der er tale om valg omfattet af § 9, stk. 4}.
-
-{Stk. 3. Repræsentanter for medarbejderne kan deltage i bestyrelsesmøder uden stemmeret, og bestyrelsen kan beslutte, at den eller de pågældende ikke kan deltage ved behandling af konkrete sager vedrørende medarbejderne. }
-
-
-§ 11. Bestyrelsen konstituerer sig selv, og formanden {og næstformanden} vælges af og blandt bestyrelsens medlemmer.
+§ 11. Bestyrelsen konstituerer sig selv, og formanden og næstformanden vælges af og blandt bestyrelsens medlemmer.
 
 Stk. 2. Bestyrelsen er beslutningsdygtig, når mindst halvdelen af bestyrelsesmedlemmerne er til stede.
 
-Stk. 3. Bestyrelsesmedlemmerne træffer beslutning ved almindelig stemmeflerhed blandt de tilstedeværende, idet formandens {eller i dennes fravær næstformandens} stemme er udslagsgivende i tilfælde af stemmelighed{, jf. dog stk. 4.
+Stk. 3. Bestyrelsesmedlemmerne træffer beslutning ved almindelig stemmeflerhed blandt de tilstedeværende, idet formandens eller i dennes fravær næstformandens stemme er udslagsgivende i tilfælde af stemmelighed{, jf. dog stk. 4.
 
 Stk. 4. [Angiv beslutninger, som kræver kvalificeret flertal, og angiv, hvor meget mere end almindelig stemmelighed der kræves, f.eks. ved at angive en brøk]. }
 

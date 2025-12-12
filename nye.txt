@@ -69,30 +69,57 @@ Stk. 2. Et bestyrelsesmedlem er inhabilt i sager, hvori vedkommende eller dennes
 
 Stk. 3. En mødedeltager har tavshedspligt i sager, hvori væsentlige hensyn til personers eller skolens interesser gør det nødvendigt at hemmeligholde oplysninger om personlige eller interne, herunder økonomiske, forhold.
 
-§ 6. Ved udøvelsen af deres hverv er bestyrelsens medlemmer ikke undergivet beslutninger truffet af den organisation, institution, forening eller lignende, som har valgt eller udpeget dem.
 
-§ 7. Bestyrelsens medlemmer hæfter ikke personligt for skolens gæld, men kan blive ansvarlige efter dansk rets almindelige erstatningsregler.
+§ 6. Ved udøvelsen af deres hverv er bestyrelsens medlemmer ikke undergivet beslutninger truffet af den organisation, institution eller lignende, som har valgt eller udpeget dem.
+
+
+§ 7. Bestyrelsens medlemmer hæfter ikke personligt for skolens gæld.
+
 
 § 8. Bestyrelsens medlemmer kan ikke modtage honorar eller lignende betaling af skolens midler for varetagelsen af hvervet som bestyrelsesmedlem.
 
+{Stk. 2. Skolen kan udbetale kørselsgodtgørelse til bestyrelsesmedlemmer efter reglerne i tjenesterejseaftalen, jf. Finansministeriets cirkulære nr. 9002 af 3. januar 2023. }
+
+
 Bestyrelsens sammensætning, funktionsmåde, funktionsperiode m.v.
-§ 9. Bestyrelsen består af 7 medlemmer og bør så vidt muligt have en afbalanceret sammensætning af kvinder og mænd.
 
-Stk. 2. 7 af bestyrelsens medlemmer vælges af og blandt forældrene til elever på skolen (forældrekredsen). Medlemmerne vælges for en periode på 2 år ad gangen. Bestyrelsesmedlemmerne afgår skiftevis, således at der i ulige år afgår 3 medlemmer og i lige år 4 medlemmer. Genvalg kan finde sted.
 
-Stk. 3. Der vælges mindst 1 suppleant til de i stk. 2 nævnte bestyrelsesmedlemmer blandt forældrekredsens medlemmer. Suppleanten træder automatisk ind i bestyrelsen for resten af funktionsperioden, hvis et af de i stk. 2 nævnte bestyrelsesmedlemmer, der er valgt efter reglerne i bekendtgørelse om valg og certificering af tilsynsførende ved frie grundskoler m.v., udtræder af bestyrelsen i funktionsperioden.
+§ 9. Bestyrelsen består af [konkret antal, som skal være mindst 5] medlemmer og bør så vidt muligt have en afbalanceret sammensætning af kvinder og mænd. {[Angiv en overordnet beskrivelse af bestyrelsens sammensætning. ]}
 
-§ 10. En medarbejder på skolen kan ikke være medlem af bestyrelsen.
+Stk. 2. [Konkret antal, som skal være mindst 2 og højst det antal, som er angivet i stk. 1] af bestyrelsens medlemmer vælges af og blandt forældrene til elever på skolen (forældrekredsen). Medlemmerne vælges for en periode på [angiv enten 2, 3 eller 4] år ad gangen.
 
-Stk. 2. Medarbejdere på skolen kan kun deltage i valg af bestyrelsen, hvis de samtidig er forældre til elever på skolen.
+Stk. 3. [Konkret antal, som skal være mindst 1] suppleant{er} til de i stk. 2 nævnte bestyrelsesmedlemmer vælges af og blandt forældrene til elever på skolen (forældrekredsen).
 
-§ 11. Bestyrelsen konstituerer sig selv, og formanden og næstformanden vælges af og blandt bestyrelsens medlemmer.
+[Ét af nedenstående stk. om medarbejdervalgte bestyrelsesmedlemmer kan vælges:
+
+
+ 	
+{Stk. 4. [Konkret antal som skal være 1, hvis bestyrelsen består af 5 medlemmer] af bestyrelsens medlemmer vælges af og blandt skolens medarbejdere, skolelederen fraregnet. Medlemmet vælges for en periode på [angiv enten 2, 3 eller 4] år ad gangen. }
+{Stk. 4. [Konkret antal som skal være enten 1 eller 2, hvis bestyrelsen består af mere end 5 medlemmer] af bestyrelsens medlemmer vælges af og blandt skolens medarbejdere, skolelederen fraregnet. [Angiv hvor længe medlemmets/medlemmernes funktionsperiode varer, idet den skal være enten 2, 3 eller 4] år ad gangen. }]
+{Stk. x. [Konkret antal] medlem{mer} [angiv om vedkommende udpeges eller vælges] af [angiv det udpegende eller vælgende organ]. [Angiv hvor længe medlemmets/medlemmernes funktionsperiode varer, idet den skal være enten 2, 3 eller 4] år ad gangen. }
+
+{Stk. x. [Konkret antal] medlem{mer} [angiv om vedkommende udpeges eller vælges] af [angiv det udpegende eller vælgende organ]. [Angiv hvor længe medlemmets/medlemmernes funktionsperiode varer, idet den skal være enten 2, 3 eller 4] år ad gangen. }
+
+{Stk. x. [Konkret antal] medlem{mer} [angiv om vedkommende udpeges eller vælges] af [angiv det udpegende eller vælgende organ]. [Angiv hvor længe medlemmets/medlemmernes funktionsperiode varer, idet den skal være enten 2, 3 eller 4] år ad gangen. }
+
+{Stk. x. [Konkret antal] suppleant{er} til de i stk. x nævnte bestyrelsesmedlemmer vælges af [angiv det vælgende organ]. }
+
+
+§ 10. En medarbejder på skolen kan ikke være medlem af bestyrelsen{, medmindre den pågældende er valgt i medfør af § 9, stk. 4}.
+
+Stk. 2. Medarbejdere på skolen kan kun deltage i valg af bestyrelsen, hvis de samtidig er forældre til elever på skolen{, medmindre der er tale om valg omfattet af § 9, stk. 4}.
+
+{Stk. 3. Repræsentanter for medarbejderne kan deltage i bestyrelsesmøder uden stemmeret, og bestyrelsen kan beslutte, at den eller de pågældende ikke kan deltage ved behandling af konkrete sager vedrørende medarbejderne. }
+
+
+§ 11. Bestyrelsen konstituerer sig selv, og formanden {og næstformanden} vælges af og blandt bestyrelsens medlemmer.
 
 Stk. 2. Bestyrelsen er beslutningsdygtig, når mindst halvdelen af bestyrelsesmedlemmerne er til stede.
 
-Stk. 3. Bestyrelsesmedlemmerne træffer beslutning ved almindelig stemmeflerhed blandt de tilstedeværende, idet formandens eller i dennes fravær næstformandens stemme er udslagsgivende i tilfælde af stemmelighed. Der kan ikke stemmes ved fuldmagt eller brev.
+Stk. 3. Bestyrelsesmedlemmerne træffer beslutning ved almindelig stemmeflerhed blandt de tilstedeværende, idet formandens {eller i dennes fravær næstformandens} stemme er udslagsgivende i tilfælde af stemmelighed{, jf. dog stk. 4.
 
-Stk. 4. Formanden leder forhandlinger og afstemninger og drager omsorg for, at beslutninger indføres i en beslutningsprotokol, som efter hvert møde underskrives af mødets deltagere. Konstateret inhabilitet skal indføres i protokollen. Ethvert bestyrelsesmedlem er berettiget til kort at få sin afvigende mening indført i beslutningsprotokollen. Formanden drager omsorg for udførelsen af de trufne beslutninger.
+Stk. 4. [Angiv beslutninger, som kræver kvalificeret flertal, og angiv, hvor meget mere end almindelig stemmelighed der kræves, f.eks. ved at angive en brøk]. }
+
 
 § 12. Bestyrelsens medlemmer skal være myndige.
 
@@ -102,144 +129,153 @@ Stk. 3. Et medlem af bestyrelsen ved en anden fri grundskole kan ikke være medl
 
 Stk. 4. Lejer skolen ejendomme m.m. af andre, kan følgende personer ikke være medlem af bestyrelsen, medmindre lejeforholdet er af uvæsentligt omfang:
 
-Personer, der udlejer ejendomme m.m. til skolen.
+1) Personer, der udlejer ejendomme m.m. til skolen.
 
-Medlemmer af bestyrelsen i fonde, selskaber, foreninger eller andre virksomheder, der udlejer ejendomme m.m. til skolen, eller som kontrollerer udlejer af ejendomme m.m. til skolen.
+2) Medlemmer af bestyrelsen i fonde, selskaber, foreninger eller andre virksomheder, der udlejer ejendomme m.m. til skolen, eller som kontrollerer udlejer af ejendomme m.m. til skolen.
 
-Advokater, revisorer eller lignende rådgivere for de i nr. 1 angivne personer.
+3) Advokater, revisorer eller lignende rådgivere for de i nr. 1 angivne personer.
 
-Advokater, revisorer eller lignende rådgivere for de i nr. 2 angivne fonde, selskaber, foreninger eller andre virksomheder.
+4) Advokater, revisorer eller lignende rådgivere for de i nr. 2 angivne fonde, selskaber, foreninger eller andre virksomheder.
 
-Ansatte i ledende stillinger hos de i nr. 1 angivne personer.
+5) Ansatte i ledende stillinger hos de i nr. 1 angivne personer.
 
-Ansatte i ledende stillinger i de i nr. 2 angivne fonde, selskaber, foreninger eller andre virksomheder.
+6) Ansatte i ledende stillinger i de i nr. 2 angivne fonde, selskaber, foreninger eller andre virksomheder.
 
-Stk. 5. Herudover må bestyrelsesmedlemmer ikke samtidig eje eller sidde i bestyrelsen for en virksomhed, som udlejer bygninger til skolen.
 
-§ 13. Et bestyrelsesmedlem skal øjeblikkelig udtræde af bestyrelsen, hvis vedkommende ikke opfylder de betingelser for medlemskab af bestyrelsen, som følger af lov om friskoler og private grundskoler m.v. eller vedtægten.
+§ 13. Et bestyrelsesmedlem skal øjeblikkelig udtræde af bestyrelsen, hvis vedkommende ikke opfylder de betingelser for medlemskab af bestyrelsen, som følger af lov om friskoler og private grundskoler m.v. eller vedtægten, jf. dog stk. 2.
 
 Stk. 2. Uanset bestemmelsen i stk. 1 skal bestyrelsesmedlemmer valgt af og blandt forældrene, jf. § 9, stk. 2 og 3, ikke udtræde af bestyrelsen, hvis deres børn udskrives i funktionsperioden mod forældrenes ønske.
 
-§ 14. Et bestyrelsesmedlem kan ikke afsættes i funktionsperioden.
+
+§ 14. Et bestyrelsesmedlem kan ikke afsættes i funktionsperioden. {Et bestyrelsesmedlem valgt af forældrekredsen eller generalforsamlingen {eller skolekredsen} kan dog afsættes, hvis dette med almindelig stemmeflerhed besluttes på et møde i det vælgende organ, hvis dagsorden indeholder et punkt om afstemning om afsættelse af det pågældende bestyrelsesmedlem. }
+
 
 § 15. Hvis et bestyrelsesmedlem udtræder af bestyrelsen i funktionsperioden, indtræder suppleanten for resten af funktionsperioden. Kan en suppleant ikke indtræde, skal der hurtigst muligt udpeges eller vælges et nyt medlem for resten af perioden.
 
+
 Skolens leder og øvrige personale
+
+
 § 16. Skolens leder varetager den daglige pædagogiske ledelse af skolen.
 
-Stk. 2. Bestyrelsen ansætter og afskediger skolens øvrige personale.
+Stk. 2. [Angiv om bestyrelsen eller skolens leder har kompetencen efter § 4, nr. 4] ansætter og afskediger skolens øvrige personale.
 
 Stk. 3. Skolens leder og øvrige personale er omfattet af bestemmelserne i forvaltningslovens kapitel 2 og 8 om inhabilitet og tavshedspligt m.v.
 
+
 Skolens forældrekreds og forældrenes rettigheder
+
+
 § 17. Forældrekredsen består af de personer, som har forældremyndigheden over elever på skolen.
 
-Stk. 2. Forældrenes rettigheder efter vedtægten og i medfør af lov om friskoler og private grundskoler m.v. tilkommer den eller de personer, som har forældremyndigheden over eleven eller har barnet i pleje efter lovens regler.
+Stk. 2. Forældrenes rettigheder efter vedtægten tilkommer den eller de personer, som har forældremyndigheden over eleven.
 
-Stk. 3. Skolen kan anse den, der har eleven i pleje, for bemyndiget til at handle på forældremyndighedens indehavers vegne, dog ikke for så vidt angår spørgsmålet om skolegangens begyndelse og varighed.
+Stk. 3. Skolen kan anse den, der har eleven i pleje, for bemyndiget til at handle på forældremyndighedens indehavers vegne, dog ikke for så vidt angår spørgsmålet om skolegangens begyndelse og varighed{, jf. dog stk. 4.
 
-Stk. 4. Det påhviler forældrekredsen at føre tilsyn med skolens almindelige virksomhed, herunder at skolen giver en undervisning, som står mål med, hvad der almindeligvis kræves i folkeskolen, i overensstemmelse med lov om friskoler og private grundskoler m.v.
+Stk. 4. Adgangen til at anse den, der har eleven i pleje, for bemyndiget til at handle på forældremyndighedens indehavers vegne, jf. stk. 3, gælder ikke elever optaget i kostafdelingen. I sådanne tilfælde finder stk. 2 anvendelse}.
 
-Stk. 5. Forældrekredsen fastsætter de nærmere regler for varetagelsen af tilsynet. Reglerne optages som bilag til denne vedtægt.
 
-Stk. 6. Medlemmerne af forældrekredsen hæfter ikke personligt for skolens gæld.
+{Skolekreds
 
-Stk. 7. Bestyrelsen har ansvar for, at forældrekredsen vælger tilsynsform og den eller de tilsynsførende og fastsætter retningslinjer for forældrekredsens eget tilsyn. Bestyrelsen har endvidere ansvar for, at forældrekredsen i forbindelse med generalforsamlingen foretager valg af tilsynsførende og valg af de forældrerepræsentanter til bestyrelsen, der skal vælges efter reglerne i bekendtgørelse om valg og certificering af tilsynsførende ved frie grundskoler m.v.
 
-Stk. 8. Bestyrelsen kan beslutte, at et barn skal ophøre som elev på skolen som følge af restance med skolepenge, kontingent eller anden aftalt økonomisk ydelse, eller hvis barnet eller dets forældre aktivt modarbejder skolen eller udviser grov illoyalitet over for skolens grundlag og virke. Medlemskab af forældrekredsen bortfalder automatisk, hvis medlemmets barn ikke længere er elev på skolen.
+§ 17 a . Skolekredsen består af [anfør hvilken kreds af personer]. Skolekredsens medlemmer [anfør hvilke beføjelser og forpligtelser skolekredsens medlemmer har]. }
 
-Stk. 9. Bestyrelsens beslutning om ophævelse eller suspendering af medlemskab i henhold til stk. 8 kan indbringes for generalforsamlingen af den, der er blevet frataget medlemskabet og/eller af et mindretal af bestyrelsen.
+{Stk. x. Bestyrelsen kan ophæve medlemsskabet af skolekredsen, såfremt medlemmet er i restance med kontingent, skolepenge eller anden fastsat økonomisk ydelse til skolen. }
+
+{Stk. x. Bestyrelsen ophæver medlemsskabet af skolekredsen, såfremt medlemmet illoyalt og vedholdende modarbejder skolens lovlige virksomhed. }
+
 
 Generalforsamling
-§ 18. Generalforsamlingen består af forældrekredsens medlemmer.
 
-Stk. 2. Generalforsamlingen er beføjet til at træffe beslutning om ansættelse af skolens leder efter bestyrelsens indstilling, valg af bestyrelsesmedlemmer samt nedlæggelse af skolen uden for de tilfælde, hvor bestyrelsen efter lov om friskoler og private grundskoler m.v. skal drage omsorg for skolens likvidation. Generalforsamlingen vælger endvidere tilsynsform og tilsynsførende efter lovgivningens regler.
 
-Stk. 3. Generalforsamlingen er beføjet til i fællesskab med bestyrelsen at træffe beslutning om skolepengenes størrelse, køb og salg af fast ejendom, pantsætning af fast ejendom og ændring af skolens vedtægt.
+§ 18. Generalforsamlingen består af forældrekredsens {og skolekredsens} medlemmer.
 
-§ 19. Generalforsamlingen afholdes hvert år senest den 14. april og indkaldes med et varsel på 4 uger.
+{Stk. x. Generalforsamlingen er beføjet til at træffe beslutning om {ansættelse og afskedigelse af skolens leder efter bestyrelsens indstilling} {,} {valg af bestyrelsesmedlemmer} {,} {godkendelse af skolens værdigrundlag} {,} {fastsættelse af kontingent for skolekredsen} {og} {nedlæggelse af skolen uden for de tilfælde, hvor bestyrelsen efter loven skal drage omsorg for likvidation af skolen}. }
 
-Stk. 2. Indkaldelse til generalforsamling skal indeholde en dagsorden, der mindst skal indeholde følgende punkter:
+{Stk. x. Generalforsamlingen er beføjet til i fællesskab med bestyrelsen at træffe beslutning om {skolepengenes størrelse} {,} {fastsættelse af kontingent for skolekredsen} {,} {godkendelse af skolens værdigrundlag} {,} {køb og salg af fast ejendom} {,} {pantsætning af fast ejendom} {,} {vedtægtsændringer} {og} {skolens nedlæggelse}. }
 
-Valg af dirigent, referent og stemmetællere.
-Bestyrelsens beretning.
-Skolelederens beretning.
-Beretning fra tilsynsførende.
-Forelæggelse af det reviderede regnskab til orientering.
-Godkendelse af bestyrelsens beslutninger om fastsættelse af skolepenge, forældrebetaling og af forældrearbejdets omfang.
-Forelæggelse af budget for igangværende regnskabsår til orientering.
-Valg af bestyrelsesmedlemmer, herunder de forældrerepræsentanter, der skal vælges efter reglerne i bekendtgørelse om valg og certificering af tilsynsførende ved frie grundskoler m.v.
-Valg af tilsynsform og tilsynsførende.
-Indkomne forslag.
-Eventuelt.
-Stk. 3. Forslag, som ønskes behandlet på generalforsamlingen, skal være bestyrelsen i hænde senest 14 dage før generalforsamlingen. Forslag bekendtgøres for medlemmerne senest 8 dage før generalforsamlingen. Sammen med dagsordenen udsendes regnskab for det seneste regnskabsår, udkast til budget samt meddelelse om indkomne forslag.
+{Stk. x. Generalforsamlingen skal høres, inden bestyrelsen træffer beslutning om [angiv de spørgsmål, som generalforsamlingen skal høres over, forinden bestyrelsen træffer beslutning derom]. }
 
-Stk. 4. Ekstraordinær generalforsamling afholdes, når mindst 2 af bestyrelsens medlemmer eller mindst 12,5 procent af generalforsamlingens medlemmer ønsker det. Den indkaldes som ordinær generalforsamling sammen med dagsorden.
 
-Stk. 5. Generalforsamlingen er beslutningsdygtig uden hensyn til antal mødte medlemmer. Beslutninger træffes ved almindelig stemmeflerhed, jf. dog §§ 22 og 23 om vedtægtsændringer og nedlæggelse af skolen.
+§ 19. Generalforsamlingen afholdes [angiv hvornår generalforsamling skal afholdes] og indkaldes med et varsel på [angiv længden på varsel].
 
-Stk. 6. 1 medlem kan kræve skriftlig afstemning. Der foretages altid skriftlig afstemning ved valg til bestyrelsen, når der er opstillet flere kandidater, end der er ledige pladser.
+Stk. 2. Indkaldelse til generalforsamling skal indeholde en dagsorden. {[Angiv en eventuel minimumsdagsorden. ]}
 
-Stk. 7. Der føres protokol over det, der foretages og vedtages på generalforsamlingen. Protokollen underskrives af dirigenten og opbevares på skolen. Referatet udsendes til forældrekredsens medlemmer senest 4 uger efter generalforsamlingen og altid inden afholdelse af den næste generalforsamling.
+Stk. 3. Forslag, som ønskes behandlet på generalforsamlingen, skal være bestyrelsen i hænde senest [konkret antal] dage før generalforsamlingen. Forslag bekendtgøres for medlemmerne senest [konkret antal] dage før.
 
-Stk. 8. Stemmeret kan kun udøves ved personligt fremmøde. Hvert medlem har 1 stemme uanset antallet af børn, vedkommende har gående på skolen. Personer, der er ansat ved skolen, kan ikke deltage i valg af bestyrelse, medmindre de samtidig er medlemmer af forældrekredsen.
+Stk. 4. Ekstraordinær generalforsamling afholdes, når [konkret antal, der er mindst 2] af bestyrelsens medlemmer eller mindst [angiv procentsats] procent af generalforsamlingens medlemmer ønsker det. Den indkaldes som ordinær generalforsamling sammen med dagsorden.
 
-Stk. 9. Ved forældrekredsens valg af tilsynsform og tilsynsførende samt valg af de forældrerepræsentanter til bestyrelsen, der skal vælges efter reglerne i bekendtgørelse om valg og certificering af tilsynsførende ved frie grundskoler m.v., kan der gives fuldmagt til en person, med hvem man har fælles forældremyndighed over et barn i skolen.
+Stk. 5. Generalforsamlingen er beslutningsdygtig uden hensyn til antal mødte medlemmer. Beslutninger træffes ved almindelig stemmeflerhed{, idet beslutning om [angiv beslutninger, som kræver kvalificeret flertal, og angiv, hvor meget mere end almindelig stemmelighed der kræves, f.eks. ved at angive en brøk]}.
+
+Stk. 6. [Konkret antal] medlem{mer} kan kræve skriftlig afstemning.
+
+Stk. 7. Der føres protokol over det, der foretages og vedtages på generalforsamlingen. Protokollen underskrives af dirigenten og opbevares på skolen.
+
+
 
 Forældrekredsens og medarbejdernes indsigt i budgetter, regnskaber og revisionsprotokoller
-§ 20. Medlemmer af forældrekredsen og skolens medarbejdere har efter anmodning ret til at få indsigt i revisionsprotokollerne og i de budgetter, regnskaber og årsrapporter, som bestyrelsen har godkendt, dog ikke heri indeholdte oplysninger, som er omfattet af forvaltningslovens regler om tavshedspligt, jf. § 5.
 
-Stk. 2. Bestyrelsen kan udstrække retten efter stk. 1 til også at omfatte andre personer og kan fastsætte nærmere regler for yderligere indsigt i skolens forhold.
+
+§ 20. Medlemmer af forældrekredsen{, skolekredsen} og skolens medarbejdere har efter anmodning ret til at få indsigt i revisionsprotokollerne og i de budgetter og regnskaber, som bestyrelsen har godkendt, dog ikke heri indeholdte oplysninger, som er omfattet af forvaltningslovens regler om tavshedspligt, jf. § 5.
+
+Stk. 2. Bestyrelsen kan udstrække retten efter stk. 1 til også at omfatte andre personer.
+
 
 Tegningsret
-§ 21. Skolen tegnes af bestyrelsens formand og skolens leder i forening, bestyrelsens formand og bestyrelsens næstformand i forening eller bestyrelsens næstformand og skolens leder i forening.
 
-Stk. 2. Tegningsretten efter stk. 1 kan ikke delegeres, og der kan ikke gives prokura.
 
-Stk. 3. Ved køb, salg og pantsætning af skolens faste ejendom samt ved optagelse af lån kræves underskrift af mindst 5 bestyrelsesmedlemmer.
+§ 21. Skolen tegnes af bestyrelsens formand og skolens leder i forening{, bestyrelsens formand og bestyrelsens næstformand i forening eller bestyrelsens næstformand og skolens leder i forening}.
+
+Stk. 2. Tegningsretten efter stk. 1 kan ikke delegeres.
+
 
 Ændring af skolens vedtægt
-§ 22. Bestyrelsen sammen med generalforsamlingen træffer beslutning om ændring af skolens vedtægt. Beslutning om ændring af vedtægten kræver, at mindst 3/4 af de fremmødte medlemmer på en generalforsamling stemmer for vedtægtsændringen, og at vedtægtsændringen derefter vedtages med almindelig stemmeflerhed på en efterfølgende generalforsamling, der afholdes med mindst 14 dages mellemrum.
+
+
+§ 22. [Angiv, om beslutningen træffes af bestyrelsen eller bestyrelsen sammen med generalforsamlingen efter § 4 og § 18] træffer beslutning om ændring af skolens vedtægt. {[Angiv såfremt beslutningen kræver kvalificeret flertal efter § 11 og § 19]. }
 
 Stk. 2. Vedtægtsændringer gælder kun, hvis de
 
-angiver bestyrelsesmedlemmernes navn og adresse med let læselig skrift,
+1) angiver bestyrelsesmedlemmernes navn og adresse med let læselig skrift,
 
-er underskrevet af samtlige bestyrelsesmedlemmer,
+2) er underskrevet af samtlige bestyrelsesmedlemmer,
 
-indeholder oplysning om, hvem der er formand og næstformand for bestyrelsen, og
+3) indeholder oplysning om, hvem der er formand {og næstformand} for bestyrelsen, og
 
-er offentliggjort på skolens hjemmeside med angivelse af, hvornår offentliggørelsen har fundet sted, og hvornår vedtægtsændringerne er vedtaget af bestyrelsen og generalforsamlingen.
+4) er offentliggjort på skolens hjemmeside med angivelse af, hvornår offentliggørelsen har fundet sted, og hvornår vedtægtsændringerne er vedtaget af bestyrelsen {og generalforsamlingen}.
 
 Stk. 3. Selvom generalforsamlingen kan være med til at træffe beslutning om vedtægtsændringer, kan bestyrelsen uden generalforsamlingens inddragelse bringe skolens vedtægt i overensstemmelse med lovgivningens krav, herunder efterkomme Børne- og Undervisningsministeriets pålæg herom. Generalforsamlingen skal orienteres om sådanne vedtægtsændringer hurtigst muligt.
 
+
+
 Nedlæggelse af skolen
+
+
 § 23. Skolen skal nedlægges, hvis den ophører med at drive skole i henhold til lov om friskoler og private grundskoler m.v.
 
-Stk. 2. Bestyrelsen træffer beslutning om nedlæggelse af skolen i de tilfælde, hvor det efter lov om friskoler og private grundskoler m.v. påhviler bestyrelsen at drage omsorg for skolens likvidation. I andre tilfælde træffer generalforsamlingen beslutning om skolens nedlæggelse.
+Stk. 2. [Angiv, om beslutningen træffes af bestyrelsen, generalforsamlingen eller begge efter § 4 og § 18] træffer beslutning om nedlæggelse af skolen, jf. § 4 {og § 18}. {[Angiv såfremt beslutningen kræver kvalificeret flertal efter § 11 og § 18]. } {Generalforsamlingens beslutning skal træffes på to på hinanden følgende generalforsamlinger med mindst 14 dages mellemrum. }
 
-Stk. 3. Generalforsamlingens beslutning om nedlæggelse kræver, at forslaget vedtages på to på hinanden følgende generalforsamlinger, der afholdes med mindst 8 dages mellemrum. På den første generalforsamling kræves, at mindst halvdelen af forældrekredsens medlemmer afgiver stemme, og at mindst 2/3 af de afgivne stemmer er for nedlæggelsen. På den efterfølgende generalforsamling kræves, at mindst 3/4 af de fremmødte forældrekredsmedlemmer stemmer for nedlæggelsen.
+Stk. 3. Bestyrelsen skal, når der er truffet beslutning om skolens nedlæggelse,
 
-Stk. 4. Indkaldelsen til generalforsamling, hvor der stilles forslag om nedlæggelse af skolen, skal indeholde en orientering om grundlaget for forslaget.
+1) orientere forældrekredsen herom umiddelbart efter, at beslutningen er truffet,
 
-Stk. 5. Bestyrelsen skal, når der er truffet beslutning om skolens nedlæggelse,
+2) orientere de kommuner, hvor eleverne er hjemmehørende, herom, og
 
-orientere forældrekredsen herom umiddelbart efter, at beslutningen er truffet,
+3) orientere Styrelsen for Undervisning og Kvalitet under Børne- og Undervisningsministeriet herom, hvilket skal ske omgående, hvis skolen tages under rekonstruktionsbehandling, begæres konkurs eller der i øvrigt er fare for, at skolens virksomhed må indstilles.
 
-orientere de kommuner, hvor eleverne er hjemmehørende, herom, og
+Stk. 4. Bestyrelsen har i forbindelse med skolens nedlæggelse ansvaret for,
 
-orientere Styrelsen for Undervisning og Kvalitet under Børne- og Undervisningsministeriet herom, hvilket skal ske omgående, hvis skolen tages under rekonstruktionsbehandling, begæres konkurs eller der i øvrigt er fare for, at skolens virksomhed må indstilles.
+1) at skolens aktiver bevares,
 
-Stk. 6. Bestyrelsen har i forbindelse med skolens nedlæggelse ansvaret for,
+2) at den økonomiske opgørelse i anledning af nedlæggelsen foretages efter gældende regler, og
 
-at skolens aktiver bevares,
+3) at skolens nettoformue anvendes i overensstemmelse med vedtægten, jf. stk. 5.
 
-at den økonomiske opgørelse i anledning af nedlæggelsen foretages efter gældende regler, og
+Stk. 5. Eventuelle overskydende midler ved skolens nedlæggelse skal med børne- og undervisningsministerens godkendelse anvendes til skolevirksomhed, der støttes i henhold til loven.
 
-at skolens nettoformue anvendes i overensstemmelse med vedtægten, jf. stk. 7.
 
-Stk. 7. Eventuelle overskydende midler ved skolens nedlæggelse skal med børne- og undervisningsministerens godkendelse anvendes til skolevirksomhed, der støttes i henhold til loven.
 
-Stk. 8. Den siddende bestyrelse fungerer videre, indtil den økonomiske afvikling af skolens aktiver og passiver er tilendebragt efter gældende regler, herunder at skolens nettoformue anvendes i overensstemmelse med vedtægten.
+Således vedtaget på bestyrelsesmøde den [dato] {og vedtaget på generalforsamlingen den [dato]}.
 
-Således vedtaget på bestyrelsesmøde den [dato] og vedtaget på generalforsamlingen den [dato].
+
+[For alle bestyrelsesmedlemmer anføres navn og adresse med let læselig skrift, samt underskrift, og det angives, hvem der er formand (og næstformand) for bestyrelsen]

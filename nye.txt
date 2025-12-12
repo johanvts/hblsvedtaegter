@@ -121,7 +121,7 @@ Skolens leder og øvrige personale
 
 § 16. Skolens leder varetager den daglige pædagogiske ledelse af skolen.
 
-Stk. 2. [Angiv om bestyrelsen eller skolens leder har kompetencen efter § 4, nr. 4] ansætter og afskediger skolens øvrige personale.
+Stk. 2. Skolens leder(efter § 4, nr. 4) ansætter og afskediger skolens øvrige personale.
 
 Stk. 3. Skolens leder og øvrige personale er omfattet af bestemmelserne i forvaltningslovens kapitel 2 og 8 om inhabilitet og tavshedspligt m.v.
 
@@ -138,27 +138,12 @@ Stk. 3. Skolen kan anse den, der har eleven i pleje, for bemyndiget til at handl
 Stk. 4. Adgangen til at anse den, der har eleven i pleje, for bemyndiget til at handle på forældremyndighedens indehavers vegne, jf. stk. 3, gælder ikke elever optaget i kostafdelingen. I sådanne tilfælde finder stk. 2 anvendelse}.
 
 
-{Skolekreds
-
-
-§ 17 a . Skolekredsen består af [anfør hvilken kreds af personer]. Skolekredsens medlemmer [anfør hvilke beføjelser og forpligtelser skolekredsens medlemmer har]. }
-
-{Stk. x. Bestyrelsen kan ophæve medlemsskabet af skolekredsen, såfremt medlemmet er i restance med kontingent, skolepenge eller anden fastsat økonomisk ydelse til skolen. }
-
-{Stk. x. Bestyrelsen ophæver medlemsskabet af skolekredsen, såfremt medlemmet illoyalt og vedholdende modarbejder skolens lovlige virksomhed. }
-
-
 Generalforsamling
 
 
-§ 18. Generalforsamlingen består af forældrekredsens {og skolekredsens} medlemmer.
+§ 18. Generalforsamlingen består af forældrekredsens medlemmer.
 
-{Stk. x. Generalforsamlingen er beføjet til at træffe beslutning om {ansættelse og afskedigelse af skolens leder efter bestyrelsens indstilling} {,} {valg af bestyrelsesmedlemmer} {,} {godkendelse af skolens værdigrundlag} {,} {fastsættelse af kontingent for skolekredsen} {og} {nedlæggelse af skolen uden for de tilfælde, hvor bestyrelsen efter loven skal drage omsorg for likvidation af skolen}. }
-
-{Stk. x. Generalforsamlingen er beføjet til i fællesskab med bestyrelsen at træffe beslutning om {skolepengenes størrelse} {,} {fastsættelse af kontingent for skolekredsen} {,} {godkendelse af skolens værdigrundlag} {,} {køb og salg af fast ejendom} {,} {pantsætning af fast ejendom} {,} {vedtægtsændringer} {og} {skolens nedlæggelse}. }
-
-{Stk. x. Generalforsamlingen skal høres, inden bestyrelsen træffer beslutning om [angiv de spørgsmål, som generalforsamlingen skal høres over, forinden bestyrelsen træffer beslutning derom]. }
-
+Stk. 2. Generalforsamlingen er beføjet til at træffe beslutning om valg af bestyrelsesmedlemmer, nedlæggelse af skolen uden for de tilfælde, hvor bestyrelsen efter loven skal drage omsorg for likvidation af skolen.
 
 § 19. Generalforsamlingen afholdes [angiv hvornår generalforsamling skal afholdes] og indkaldes med et varsel på [angiv længden på varsel].
 

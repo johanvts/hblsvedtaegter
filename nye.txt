@@ -147,7 +147,21 @@ Stk. 2. Generalforsamlingen er beføjet til at træffe beslutning om valg af bes
 
 § 19. Generalforsamlingen afholdes senest 14. april og indkaldes med et varsel på mindst 4 uger.
 
-Stk. 2. Indkaldelse til generalforsamling skal indeholde en dagsorden.
+Stk. 2. Indkaldelse til generalforsamling skal indeholde en dagsorden. Denne skal mindst indeholde følgende punkter:
+1. Valg af dirigent, referent og stemmetællere.
+2. Bestyrelsens beretning.
+3. Skolelederens beretning.
+4. Beretning fra tilsynsførende
+5. Forelæggelse af det reviderede regnskab til orientering.
+6. Godkendelse af bestyrelsens beslutninger om fastsættelse
+af skolepenge, forældrebetaling og af forældrearbejdets omfang.
+7. Forelæggelse af budget for igangværende regnskabsår til orientering
+8. Valg af bestyrelsesmedlemmer, herunder forældrerepræsentanter, jf. § 2,7,
+9. Valg af tilsynsform og tilsynsførende, jf. § 2.7
+Bestyrelsen har ansvar for, at kun personer, der tilhører forældrekredsen, stemmer til valgene under pkt. 8 og 9.
+10. Indkomne forslag.
+11. Eventuelt.
+Sammen med dagsordenen udsendes regnskab for det seneste regnskabsår, udkast til budget samt meddelelse om indkomne forslag.
 
 Stk. 3. Forslag, som ønskes behandlet på generalforsamlingen, skal være bestyrelsen i hænde senest 14 dage før generalforsamlingen. Forslag bekendtgøres for medlemmerne senest 8 dage før.
 

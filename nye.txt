@@ -48,7 +48,7 @@ Bestyrelsens opgaver m.v.
 
 7) træffer med generalforsamlingens godkendelse beslutning om ændring af skolens vedtægt,
 
-8) træffer beslutning om skolens nedlæggelse i de tilfælde, hvor det efter loven påhviler bestyrelsen at drage omsorg for skolens likvidation, idet generalforsamlingen kan tillægges kompetencen til at træffe beslutning om skolens nedlæggelse uden for de tilfælde, hvor bestyrelsen efter loven skal drage omsorg for likvidation af skolen.
+8) træffer {med generalforsamlingens godkendelse} beslutning om skolens nedlæggelse, idet generalforsamlingen kan tillægges kompetencen til at træffe beslutning om skolens nedlæggelse uden for de tilfælde, hvor bestyrelsen efter loven skal drage omsorg for likvidation af skolen.
 
 9) træffer beslutning om ethvert spørgsmål i øvrigt om skolen, som bestyrelsen selv ønsker at træffe beslutning om, og
 
